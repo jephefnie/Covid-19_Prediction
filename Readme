@@ -1,1 +1,15 @@
+This is a Malaysia COVID-19 Cases Forecast using LSTM and Linear Regression (LR).
+
+Coronavirus disease 2019 (COVID-19) is a highly infectious disease caused by severe acute respiratory syndrome coronavirus 2 (WHO, n.d.).
+The disease first originated in December 2019 from Wuhan, China, and since then, it has spread globally across the world. 
+The impact is such that the World Health Organization (WHO) has declared the ongoing pandemic of COVID-19 a Public Health Emergency of International Concern. 
+The deadly virus inevitably entails rapid dissemination, endangering the health of large numbers of people, and thus needs urgent intervention to avoid the disease at the community level. According to statistics Worldometers on June 26, 2020, there are a total of 9,473,214 confirmed cases, and 484,249 people have lost their lives worldwide (Worldometers, n.d.). 
+
+
+Objectives / Goals
+To analyze the number of Covid-19 daily new and death cases in Malaysia using LSTM and LR.
+To build models of prediction using LSTM and LR.
+To evaluate and compare the performance of LSTM and LR prediction models.
+To select a better model to predict future cases in Malaysia.
+
 
